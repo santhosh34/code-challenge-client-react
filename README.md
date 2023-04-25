@@ -9,4 +9,9 @@ Please refer to the provided document for the code challenge requirements.
 
 Corresponding Backend Code Repo: 
 https://github.com/santhosh34/code-challenge-server-go   ( master/main branch)
+
+Result Screen: 
+
+![Result Screen](docs/final%20result%20on%20screen.png?raw=true)
+
  
